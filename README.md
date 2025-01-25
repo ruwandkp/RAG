@@ -1,8 +1,10 @@
 ## Overview
 
-This project provides comprehensive resources and guides on various aspects of building intelligent data-driven applications using LangChain. Below are the key components covered:
-Retrieval Augmented Generation (RAG): Enhancing LLM responses by retrieving relevant documents from external datasets. 
-Chatbot: Creating a chatbot that answers queries using your documents' content instead of pre-trained information. It provides a comprehensive guide to implementing RAG and building a document-based chatbot.
+This project provides comprehensive resources and guides on various aspects of building intelligent data-driven applications using LangChain. 
+
+Below are the key components covered:
+- Retrieval Augmented Generation (RAG): Enhancing LLM responses by retrieving relevant documents from external datasets. 
+- Chatbot: Creating a chatbot that answers queries using your documents' content instead of pre-trained information. It provides a comprehensive guide to implementing RAG and building a document-based chatbot.
 
 This project focuses on: 
 ## Document Loading
